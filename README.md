@@ -8,3 +8,5 @@ It is now an open source project, licensed under an MIT open source license and 
 The Open SIMH simulators package is located here:   https://github.com/open-simh/
 
 **I strongly encourage anyone interested in Computer History and Computer Simulations to look and this very worthwhile project (and even get involved)!**
+
+**Also check out the SIMH mailing list at https://groups.io/g/SIMH**
